@@ -1,8 +1,8 @@
 ## Sobre o Projeto
 
-    Foi disponibilizado pela Instituição Data Science Academy uma planilha de dados em excel, que cujo o objetivo é mostrar a taxa de desemprego no Brasil, entre os anos de 2010 a 2015. 
+   Foi disponibilizado pela Instituição Data Science Academy uma planilha de dados em excel, que cujo o objetivo é mostrar a taxa de desemprego no Brasil, entre os anos de 2010 a 2015. 
 
-    Nessa analise é possível encontrar a faixa etária de idade, Mês, Ano, Total de Desempregados e Sexo. Esse Dataset foi retirado do site do IBGE. Seu papel é criar uma análise de dados de diferentes visões, com clareza absoluta nos dados, diversificar em diferentes ângulos um resultado padronizado, fazendo com que fique possível para o usuário entender no que se passa os Dados
+   Nessa analise é possível encontrar a faixa etária de idade, Mês, Ano, Total de Desempregados e Sexo. Esse Dataset foi retirado do site do IBGE. Seu papel é criar uma análise de dados de diferentes visões, com clareza absoluta nos dados, diversificar em diferentes ângulos um resultado padronizado, fazendo com que fique possível para o usuário entender no que se passa os Dados
 
 ## Passos para a realização do desafio de Desemprego
 
